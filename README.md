@@ -8,4 +8,4 @@ The main code is available in **wrangle_act.ipynb**<br>
 The cleaning and gathering steps are available in **wrangle_report.pdf**<br>
 The final report is available in **act_report.pdf**<br>
 
-![alt text](http://url/to/img.png)
+![Wordcloud](https://github.com/souvikdas54/UdacityND_DataWrangling/blob/master/doggo.png)
